@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmobaCoder
 - 👀 I am a Data Analyst
 - 🌱 I’m currently learning Python for Data Science 
-- 💞️ I’m looking to collaborate on Data Scientists and Engineers
+- 💞️ I’m looking to collaborate with Data Scientists and Engineers
 - 📫 How to reach me princeogwu@gmail.com
 
 <!---
